@@ -8,9 +8,9 @@
 ## ✋ Soma.dev // JS.Hong
 Age : Born in 1982💦 <br/>
 Email : alex-js@kakao.com💬 <br/>
-Blog : 
-  ㄴ Life : https://blog.naver.com/kai0915 <br/>
-  ㄴ Tech : https://soma-soft.tistory.com <br/>
+Blog : <br/>
+  ㄴ Life : https://blog.naver.com/kai0915 <br/>
+  ㄴ Tech : https://soma-soft.tistory.com <br/>
 
 ## 기술 스택
 
